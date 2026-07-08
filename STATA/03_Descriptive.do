@@ -1,0 +1,1 @@
+summarize Leverage ESG_Score IM_TONE Asset_Growth Sales_Growth
